@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClothesToWear</string>
+    <string-array name="occasions">
+        <item>Casual</item>
+        <item>Dressy Casual</item>
+        <item>Business attire</item>
+        <item>Semi Formal</item>
+        <item>White Tie</item>
+    </string-array>
+    <string name="overview">overview here</string>
+</resources>
